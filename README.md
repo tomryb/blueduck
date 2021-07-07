@@ -1,3 +1,3 @@
-### Pierwszy samodzielny projekt w React.
+### Samodzielny projekt w React.
 
 Aplikacja timer do wpisanego taska. 
